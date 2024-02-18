@@ -2,7 +2,7 @@
 
 Lua developer learning Python and C++
 
-### Coolest public projects
+### 🕶 Coolest public projects
 - https://github.com/JinxTheCatto/Stellite
 
 ### 🤖 Interests
