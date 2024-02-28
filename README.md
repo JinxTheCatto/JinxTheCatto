@@ -4,6 +4,7 @@ Lua developer learning Python and C++
 
 ### 🕶 Coolest public projects
 - https://github.com/JinxTheCatto/Stellite
+- https://github.com/JinxTheCatto/LuavaultPUBLIC
 
 ### 🤖 Interests
 - Robotics
