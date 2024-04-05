@@ -4,8 +4,9 @@ Lua developer learning Python and C++
 
 ### 🕶 Coolest public projects
 - [Fortnite Festival Autoplayer](https://github.com/JinxTheCatto/Stellite)
-- [Roblox Script Hub](https://github.com/JinxTheCatto/LuavaultPUBLIC)
-
+- [Drawing OVerlay](https://github.com/JinxTheCatto/DrawingOverlay)
+- [~~Roblox Script Hub~~](https://github.com/JinxTheCatto/LuavaultPUBLIC)
+  
 ### 🤖 Interests
 - Robotics
 - Machine Learning
