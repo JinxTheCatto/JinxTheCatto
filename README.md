@@ -8,8 +8,8 @@ Lua developer learning Python and C++
 - [~~Roblox Script Hub~~](https://github.com/JinxTheCatto/LuavaultPUBLIC)
   
 ### 🤖 Interests
-- Robotics
-- Machine Learning
 - Gamedev
+- RC and Robotics
+- Machine Learning
 
 ![languages](https://readme-badges-delta.vercel.app/api/top-langs/?username=JinxTheCatto&theme=transparent&custom_title=Used%20languages&hide_border=false&layout=compact&hide=)
