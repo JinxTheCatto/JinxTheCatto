@@ -1,6 +1,9 @@
 ## 👋 Hi, I'm Jinx!
 
 Lua developer learning Python and C++
+Developer at Neptune Development
+
+[![discord server](https://dcbadge.vercel.app/api/server/bkWf3AqrEY)](https://discord.gg/bkWf3AqrEY)
 
 ### 🕶 Public projects
 - [Fortnite Festival Autoplayer](https://github.com/JinxTheCatto/Stellite)
