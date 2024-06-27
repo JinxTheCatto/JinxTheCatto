@@ -2,7 +2,7 @@
 
 Lua developer learning Python and C++
 
-Developer at Neptune Development
+Developer @ Neptune
 
 [![discord server](https://dcbadge.vercel.app/api/server/bkWf3AqrEY)](https://discord.gg/bkWf3AqrEY)
 
