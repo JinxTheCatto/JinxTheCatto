@@ -16,4 +16,4 @@ Developer @ Neptune
 - RC and Robotics
 - Machine Learning
 
-![languages](https://readme-badges-delta.vercel.app/api/top-langs/?username=JinxTheCatto&theme=transparent&custom_title=Used%20languages&hide_border=false&layout=compact&hide=)
+![languages](https://readme-badges-git-main-jinxthecattos-projects.vercel.app/api/top-langs/?username=JinxTheCatto&theme=transparent&custom_title=Used%20languages&hide_border=false&layout=compact&hide=)
