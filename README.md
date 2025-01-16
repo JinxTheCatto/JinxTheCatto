@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Jinx!
 
-Lua developer learning Python and C++
+Lua and Python developer learning Java
 
 Developer @ Neptune
 
