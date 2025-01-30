@@ -12,8 +12,9 @@ Developer @ Neptune
 - [Drawing Overlay](https://github.com/JinxTheCatto/DrawingOverlay)
   
 ### 🤖 Code Related Interests
-- Gamedev
-- RC and Robotics
 - Machine Learning
+- Remote Controlled Vehicles and Robotics
+- Simulators/Physics systems
+- Gamedev
 
 ![languages](https://readme-badges-git-main-jinxthecattos-projects.vercel.app/api/top-langs/?username=JinxTheCatto&theme=transparent&custom_title=Used%20languages&hide_border=false&layout=compact&hide=)
