@@ -4,7 +4,7 @@ Lua, Python and Javascript developer learning Java
 
 Developer @ Neptune
 
-[![discord server](https://dcbadge.vercel.app/api/server/bkWf3AqrEY)](https://discord.gg/bkWf3AqrEY)
+[![Neptune Server](https://dcbadge.vercel.app/api/server/bkWf3AqrEY)](https://discord.gg/bkWf3AqrEY)
 
 ### 🕶 Public projects
 - [Fortnite Festival Autoplayer](https://github.com/JinxTheCatto/Stellite)
