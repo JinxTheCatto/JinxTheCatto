@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Jinx!
 
-Lua and Python developer learning Java
+Lua, Python and Javascript developer learning Java
 
 Developer @ Neptune
 
@@ -13,6 +13,7 @@ Developer @ Neptune
   
 ### 🤖 Code Related Interests
 - Machine Learning
+- Automation
 - Remote Controlled Vehicles and Robotics
 - Simulators/Physics systems
 - Gamedev
