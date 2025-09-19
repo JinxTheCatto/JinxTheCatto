@@ -8,7 +8,7 @@ Developer @ [![Neptune](https://dcbadge.vercel.app/api/server/bkWf3AqrEY)](https
 
 
 ### 🕶 Public projects
-- [Wplace Botting Tool]([https://github.com/JinxTheCatto/Stellite](https://github.com/wplacer/wplacer))
+- [Wplace Botting Tool](https://github.com/wplacer/wplacer)
 - [Fortnite Festival Autoplayer](https://github.com/JinxTheCatto/Stellite)
 - [Neptune Roblox Script Hub](https://github.com/JinxTheCatto/Neptune)
 - [Drawing Overlay](https://github.com/JinxTheCatto/DrawingOverlay)
