@@ -2,11 +2,13 @@
 
 Lua, Python and Javascript developer learning Java
 
-Developer @ Neptune
+Developer @ [![wwplacer](https://dcbadge.vercel.app/api/server/nkavjUXCfB)](https://discord.gg/nkavjUXCfB)
+Developer @ [![Neptune](https://dcbadge.vercel.app/api/server/bkWf3AqrEY)](https://discord.gg/bkWf3AqrEY)
 
-[![Neptune Server](https://dcbadge.vercel.app/api/server/bkWf3AqrEY)](https://discord.gg/bkWf3AqrEY)
+
 
 ### 🕶 Public projects
+- [Wplace Botting Tool]([https://github.com/JinxTheCatto/Stellite](https://github.com/wplacer/wplacer))
 - [Fortnite Festival Autoplayer](https://github.com/JinxTheCatto/Stellite)
 - [Neptune Roblox Script Hub](https://github.com/JinxTheCatto/Neptune)
 - [Drawing Overlay](https://github.com/JinxTheCatto/DrawingOverlay)
