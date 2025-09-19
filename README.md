@@ -2,10 +2,9 @@
 
 Lua, Python and Javascript developer learning Java
 
-Developer @ [![wwplacer](https://dcbadge.vercel.app/api/server/nkavjUXCfB)](https://discord.gg/nkavjUXCfB)
+Developer @ [![wplacer](https://dcbadge.vercel.app/api/server/nkavjUXCfB)](https://discord.gg/nkavjUXCfB)
+
 Developer @ [![Neptune](https://dcbadge.vercel.app/api/server/bkWf3AqrEY)](https://discord.gg/bkWf3AqrEY)
-
-
 
 ### 🕶 Public projects
 - [Wplace Botting Tool](https://github.com/wplacer/wplacer)
