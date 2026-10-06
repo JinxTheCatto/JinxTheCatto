@@ -10,7 +10,7 @@
 ### 🛰 Developer @
 
 <p align="center">
-  <a href="https://discord.gg/8BxaHHVT2u"><img src="https://img.shields.io/discord/1551699576304705647?style=for-the-badge&logo=discord&logoColor=white&label=RoyaleGym&color=5865F2" alt="RoyaleGym Discord"></a>
+  <a href="https://discord.gg/8BxaHHVT2u"><img src="https://img.shields.io/discord/1534663823204552886?style=for-the-badge&logo=discord&logoColor=white&label=RoyaleGym&color=5865F2" alt="RoyaleGym Discord"></a>
   <a href="https://discord.gg/bkWf3AqrEY"><img src="https://img.shields.io/discord/1203788041693429820?style=for-the-badge&logo=discord&logoColor=white&label=Neptune&color=5865F2" alt="Neptune Discord"></a>
   <a href="https://discord.gg/nkavjUXCfB"><img src="https://img.shields.io/discord/1405240180620918918?style=for-the-badge&logo=discord&logoColor=white&label=wplacer&color=5865F2" alt="wplacer Discord"></a>
 </p>
